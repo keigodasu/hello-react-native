@@ -13,7 +13,7 @@ module.exports = {
         inlineRequires: false,
       },
       server: {
-        port: 9999 
+        port: 9981 
       }
     }),
   },
